@@ -33,4 +33,4 @@ while True:
     else:
         print("Invalid choice!!!")
 
-    print("-"*40)
+    print("-"*50)
